@@ -1,2 +1,0 @@
-# lg
-private homepage
